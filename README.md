@@ -1,2 +1,2 @@
 # good-game
-mansh the developer
+Manash the developer
